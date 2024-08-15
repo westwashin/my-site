@@ -6,6 +6,7 @@ import PythonLogo from '%/cv/tech/python.svg'
 import NextLogo from '%/cv/tech/nextjs.svg'
 import NodeLogo from '%/cv/tech/node.svg'
 import TailwindLogo from '%/cv/tech/tailwind.svg'
+import JavaLogo from '%/cv/tech/java.png'
 
 const skillsData: any = {
   heading: 'skills',
@@ -31,6 +32,10 @@ const skillsData: any = {
       name: 'Tailwind CSS',
       icon: TailwindLogo,
     },
+    java: {
+      name: 'Java',
+      icon: JavaLogo,
+    }
   },
 }
 const {heading, text, techs} = skillsData
