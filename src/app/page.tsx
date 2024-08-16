@@ -7,8 +7,8 @@ export default function IndexPage() {
   return (
     <Container className="space-y-10">
       <Hero />
-      {/* <Works />
-      <Projects /> */}
+      <Works />
+      {/* <Projects /> */}
     </Container>
   )
 }

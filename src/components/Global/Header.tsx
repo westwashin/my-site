@@ -10,7 +10,7 @@ import ArrowLink from '../UI/ArrowLink'
 const headerData = {
   nav: {
     home: {name: 'home', href: '/'},
-    // works: {name: 'works', href: '/works'},
+    works: {name: 'works', href: '/works'},
     // about: {name: 'about', href: '/about'},
   },
 
