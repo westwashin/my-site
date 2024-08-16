@@ -32,7 +32,7 @@ export async function getWorks(): Promise<Product[]> {
 
 const worksData = {
   heading: 'my works',
-  text: 'Creating unique websites and designing interfaces is my passion. I oversee the entire process from idea and design to coding and delivering the final product.',
+  text: 'Creating powerful and useful website my passion. I oversee the entire process from idea and design to coding and delivering the final product.',
 }
 const {heading, text} = worksData
 
